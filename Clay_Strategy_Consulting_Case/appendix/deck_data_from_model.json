@@ -1,0 +1,1161 @@
+{
+ "scen": {
+  "NPV of the program at hurdle rate": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": -2099751.47708868,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": -1892876.99701321,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 1527389.14451738,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": -6046208.0818728,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": -5438648.65209082,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 821457.727301354,
+   "Dist \u00b7 Solution play \u00b7 Downside": -625495.414239844,
+   "Dist \u00b7 Solution play \u00b7 Base": -544641.96324311,
+   "Dist \u00b7 Solution play \u00b7 Upside": 1114412.43069812,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": -2148114.87756732,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": -2044076.84125358,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": -249190.24700217,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": -6093023.60200031,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": -5731151.94414391,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": -2873027.50018581,
+   "PS \u00b7 Solution play \u00b7 Downside": -648617.848535433,
+   "PS \u00b7 Solution play \u00b7 Base": -620644.159007741,
+   "PS \u00b7 Solution play \u00b7 Upside": 223947.767188292
+  },
+  "NPV of Option 0 (same spend in core)": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 1320322.29312684,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 1512522.02860027,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 1983119.26830202,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 3498435.89830563,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 3736306.25451755,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 4014084.68186211,
+   "Dist \u00b7 Solution play \u00b7 Downside": 431297.34369598,
+   "Dist \u00b7 Solution play \u00b7 Base": 527863.092334481,
+   "Dist \u00b7 Solution play \u00b7 Upside": 756148.160135243,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 1339667.79239532,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 1525400.91673333,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 1804748.65525916,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 3508194.59573066,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 3726855.81985108,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 3902325.87749624,
+   "PS \u00b7 Solution play \u00b7 Downside": 440304.354665281,
+   "PS \u00b7 Solution play \u00b7 Base": 532589.31229013,
+   "PS \u00b7 Solution play \u00b7 Upside": 665333.916905965
+  },
+  "NPV advantage over Option 0": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": -3420073.77021552,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": -3405399.02561348,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": -455730.123784644,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": -9544643.98017843,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": -9174954.90660837,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": -3192626.95456076,
+   "Dist \u00b7 Solution play \u00b7 Downside": -1056792.75793582,
+   "Dist \u00b7 Solution play \u00b7 Base": -1072505.05557759,
+   "Dist \u00b7 Solution play \u00b7 Upside": 358264.270562873,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": -3487782.66996264,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": -3569477.75798691,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": -2053938.90226133,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": -9601218.19773097,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": -9458007.76399499,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": -6775353.37768205,
+   "PS \u00b7 Solution play \u00b7 Downside": -1088922.20320071,
+   "PS \u00b7 Solution play \u00b7 Base": -1153233.47129787,
+   "PS \u00b7 Solution play \u00b7 Upside": -441386.149717673
+  },
+  "Exit ARR, Q4 2029": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 62906.1562730314,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 509612.726732255,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 3013219.53633262,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 113881.559264502,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 820721.594513904,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 4711541.74435004,
+   "Dist \u00b7 Solution play \u00b7 Downside": 30663.054615016,
+   "Dist \u00b7 Solution play \u00b7 Base": 246156.696716439,
+   "Dist \u00b7 Solution play \u00b7 Upside": 1463066.34250671,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 110994.418512281,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 680163.893500675,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 2609610.79941294,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 161375.745012656,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 914355.663776077,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 3491416.26836429,
+   "PS \u00b7 Solution play \u00b7 Downside": 51399.2920937751,
+   "PS \u00b7 Solution play \u00b7 Base": 317295.302916191,
+   "PS \u00b7 Solution play \u00b7 Upside": 1231458.69329734
+  },
+  "Customers, Q4 2029": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 7.61481866921757,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 49.5280990541991,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 194.703814994485,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 13.8075007283101,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 79.3218850472757,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 305.198786317707,
+   "Dist \u00b7 Solution play \u00b7 Downside": 3.71063941389807,
+   "Dist \u00b7 Solution play \u00b7 Base": 23.9042845832178,
+   "Dist \u00b7 Solution play \u00b7 Upside": 94.4603332816976,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 15.3318187590811,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 85.1422633918539,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 289.210883334527,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 22.2062436061236,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 113.804175047752,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 386.271137692335,
+   "PS \u00b7 Solution play \u00b7 Downside": 7.09211921057306,
+   "PS \u00b7 Solution play \u00b7 Base": 39.6799144642639,
+   "PS \u00b7 Solution play \u00b7 Upside": 136.357606276844
+  },
+  "New customers 2027\u201329": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 8.95062825244445,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 54.7491194625937,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 210.075218540593,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 16.212819172489,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 87.8923560527539,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 329.144143209313,
+   "Dist \u00b7 Solution play \u00b7 Downside": 4.36255472040268,
+   "Dist \u00b7 Solution play \u00b7 Base": 26.4326016371775,
+   "Dist \u00b7 Solution play \u00b7 Upside": 101.935580002381,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 17.9629414965,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 94.8804342050555,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 313.721927812985,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 26.1236957779436,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 127.250158728668,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 419.286387148215,
+   "PS \u00b7 Solution play \u00b7 Downside": 8.31739217975316,
+   "PS \u00b7 Solution play \u00b7 Base": 44.240234116354,
+   "PS \u00b7 Solution play \u00b7 Upside": 147.951610997488
+  },
+  "Average first-year ACV": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 7293.91737210044,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 8847.97350983958,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 12338.4880922387,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 7288.46254139822,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 8863.82062103322,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 12322.6599394515,
+   "Dist \u00b7 Solution play \u00b7 Downside": 7294.80438558972,
+   "Dist \u00b7 Solution play \u00b7 Base": 8850.61264734639,
+   "Dist \u00b7 Solution play \u00b7 Upside": 12341.8470873335,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 6452.56585184663,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 6863.97894361972,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 7290.93389777593,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 6457.08820754989,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 6868.99080111395,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 7288.05182548431,
+   "PS \u00b7 Solution play \u00b7 Downside": 6454.73467879161,
+   "PS \u00b7 Solution play \u00b7 Base": 6865.79473230783,
+   "PS \u00b7 Solution play \u00b7 Upside": 7292.32355628473
+  },
+  "CAC, fully loaded": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 203613.494017138,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 39481.7979795841,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 15314.7979647495,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 412144.852032752,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 78270.4504774196,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 22265.2681546165,
+   "Dist \u00b7 Solution play \u00b7 Downside": 83551.6676240796,
+   "Dist \u00b7 Solution play \u00b7 Base": 20825.5564184495,
+   "Dist \u00b7 Solution play \u00b7 Upside": 10465.924593767,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 103832.310000811,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 22952.9305332245,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 8756.15328005196,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 256488.667415673,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 53777.1200128304,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 16777.6214001963,
+   "PS \u00b7 Solution play \u00b7 Downside": 46179.3046718489,
+   "PS \u00b7 Solution play \u00b7 Base": 12526.6363872657,
+   "PS \u00b7 Solution play \u00b7 Upside": 5596.91273301809
+  },
+  "CAC, marginal": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 59515.4686309744,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 15924.0153192791,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 9175.24535067644,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 56883.204082194,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 12738.0979974637,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 4765.96587026744,
+   "Dist \u00b7 Solution play \u00b7 Downside": 63223.1465170481,
+   "Dist \u00b7 Solution play \u00b7 Base": 17470.446432244,
+   "Dist \u00b7 Solution play \u00b7 Upside": 9595.92134551735,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 32030.7146221161,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 9359.318025556,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 4644.97155254546,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 36007.1204667954,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 8513.57838201577,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 3040.4884197573,
+   "PS \u00b7 Solution play \u00b7 Downside": 35516.793659062,
+   "PS \u00b7 Solution play \u00b7 Base": 10522.0293257153,
+   "PS \u00b7 Solution play \u00b7 Upside": 4997.49860622098
+  },
+  "CAC payback, 2029 cohort": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 474.317904836001,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 53.7401674227257,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 16.190358159649,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 1086.74312456402,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 117.749971592235,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 22.9275291609579,
+   "Dist \u00b7 Solution play \u00b7 Downside": 154.68712616772,
+   "Dist \u00b7 Solution play \u00b7 Base": 25.7096596243456,
+   "Dist \u00b7 Solution play \u00b7 Upside": 11.115367637766,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 254.832564324467,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 42.2717351099849,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 15.5093460738032,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 745.197715143344,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 110.905185155125,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 30.7176485683831,
+   "PS \u00b7 Solution play \u00b7 Downside": 92.5132660443792,
+   "PS \u00b7 Solution play \u00b7 Base": 20.4876211109573,
+   "PS \u00b7 Solution play \u00b7 Upside": 9.51419764130953
+  },
+  "Total incremental cost 2027\u201329": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 2544131.07717482,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 2967534.56388842,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 4341614.21942982,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 7419246.69350996,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 7751157.39263834,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 8689214.64023409,
+   "Dist \u00b7 Solution play \u00b7 Downside": 750095.632464485,
+   "Dist \u00b7 Solution play \u00b7 Base": 976784.119966582,
+   "Dist \u00b7 Solution play \u00b7 Upside": 1648174.33011316,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 2602606.66010182,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 3060744.93760944,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 4086357.24200235,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 7454859.72562977,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 7793222.13841714,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 8593401.40464464,
+   "PS \u00b7 Solution play \u00b7 Downside": 776601.243055922,
+   "PS \u00b7 Solution play \u00b7 Base": 1014849.5352826,
+   "PS \u00b7 Solution play \u00b7 Upside": 1505362.63353486
+  },
+  "Cumulative P&L 2027\u201329 (undiscounted)": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": -2502939.77253735,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": -2645899.10496357,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": -2248566.26463482,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": -7345026.33653731,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": -7222892.95198776,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": -5428876.48572213,
+   "Dist \u00b7 Solution play \u00b7 Downside": -729995.022520068,
+   "Dist \u00b7 Solution play \u00b7 Base": -821017.402656132,
+   "Dist \u00b7 Solution play \u00b7 Upside": -630042.269565973,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": -2531335.98850055,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": -2610408.33737085,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": -2187763.10216061,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": -7348790.15087953,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": -7171119.07537953,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": -6032936.81213274,
+   "PS \u00b7 Solution play \u00b7 Downside": -743420.537014216,
+   "PS \u00b7 Solution play \u00b7 Base": -803970.505367065,
+   "PS \u00b7 Solution play \u00b7 Upside": -607226.142440595
+  },
+  "Peak investment": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": -2502939.77253735,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": -2645899.10496357,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": -2299054.84306802,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": -7345026.33653731,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": -7222892.95198776,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": -5428876.48572213,
+   "Dist \u00b7 Solution play \u00b7 Downside": -729995.022520068,
+   "Dist \u00b7 Solution play \u00b7 Base": -821017.402656132,
+   "Dist \u00b7 Solution play \u00b7 Upside": -755671.43791667,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": -2531335.98850055,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": -2610408.33737085,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": -2199485.18924948,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": -7348790.15087953,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": -7171119.07537953,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": -6032936.81213274,
+   "PS \u00b7 Solution play \u00b7 Downside": -743420.537014216,
+   "PS \u00b7 Solution play \u00b7 Base": -803970.505367065,
+   "PS \u00b7 Solution play \u00b7 Upside": -698430.338480503
+  },
+  "ACV lost to capacity": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 0,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 0,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 0,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 0,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 0,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 0,
+   "Dist \u00b7 Solution play \u00b7 Downside": 0,
+   "Dist \u00b7 Solution play \u00b7 Base": 0,
+   "Dist \u00b7 Solution play \u00b7 Upside": 0,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 0,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 0,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 0,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 0,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 0,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 0,
+   "PS \u00b7 Solution play \u00b7 Downside": 0,
+   "PS \u00b7 Solution play \u00b7 Base": 0,
+   "PS \u00b7 Solution play \u00b7 Upside": 0
+  },
+  "Gate metric: 2027 opportunities": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 15.5670341760124,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 43.6188722246667,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 116.59176500912,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 28.5017490731955,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 73.6465844201646,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 184.11473152979,
+   "Dist \u00b7 Solution play \u00b7 Downside": 7.5903563847742,
+   "Dist \u00b7 Solution play \u00b7 Base": 21.1913218619909,
+   "Dist \u00b7 Solution play \u00b7 Upside": 56.8924129251711,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 36.3734859626292,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 98.47662507034,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 240.541546469803,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 55.5527252534314,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 144.038232152361,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 336.343963822151,
+   "PS \u00b7 Solution play \u00b7 Downside": 16.9846026034146,
+   "PS \u00b7 Solution play \u00b7 Base": 46.35317562821,
+   "PS \u00b7 Solution play \u00b7 Upside": 114.236836448332
+  },
+  "Gate metric: 2027 new customers": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 1.54372468444785,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 6.18260904948639,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 21.7760904031459,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 2.85874696215099,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 10.2078993808733,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 33.3719427346414,
+   "Dist \u00b7 Solution play \u00b7 Downside": 0.751478427343154,
+   "Dist \u00b7 Solution play \u00b7 Base": 3.00051442615977,
+   "Dist \u00b7 Solution play \u00b7 Upside": 10.6220541226321,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 3.3077330884446,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 12.4046492651292,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 37.2559400871903,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 5.07477267948291,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 17.9834034125201,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 52.2151341898812,
+   "PS \u00b7 Solution play \u00b7 Downside": 1.54369592445639,
+   "PS \u00b7 Solution play \u00b7 Base": 5.83806818150831,
+   "PS \u00b7 Solution play \u00b7 Upside": 17.705053523083
+  },
+  "Gate metric: 2027 partner introductions": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 20,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 42,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 96,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 20,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 42,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 96,
+   "Dist \u00b7 Solution play \u00b7 Downside": 10,
+   "Dist \u00b7 Solution play \u00b7 Base": 21,
+   "Dist \u00b7 Solution play \u00b7 Upside": 48,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 28,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 54,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 112,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 28,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 54,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 112,
+   "PS \u00b7 Solution play \u00b7 Downside": 14,
+   "PS \u00b7 Solution play \u00b7 Base": 27,
+   "PS \u00b7 Solution play \u00b7 Upside": 56
+  },
+  "Gate metric: 2027 average ACV": {
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Downside": 6891.78950927565,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Base": 8545.01753177967,
+   "Dist \u00b7 Lean partner-led pilot \u00b7 Upside": 11723.9726084903,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Downside": 6885.73598846013,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Base": 8458.47709261422,
+   "Dist \u00b7 Sales-led vertical team \u00b7 Upside": 11504.3561590685,
+   "Dist \u00b7 Solution play \u00b7 Downside": 6890.59016441463,
+   "Dist \u00b7 Solution play \u00b7 Base": 8544.10501175352,
+   "Dist \u00b7 Solution play \u00b7 Upside": 11720.2730068752,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Downside": 6128.81594934335,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Base": 6435.70474560325,
+   "PS \u00b7 Lean partner-led pilot \u00b7 Upside": 6706.76854354706,
+   "PS \u00b7 Sales-led vertical team \u00b7 Downside": 6133.14514780004,
+   "PS \u00b7 Sales-led vertical team \u00b7 Base": 6420.59413938793,
+   "PS \u00b7 Sales-led vertical team \u00b7 Upside": 6674.21979964615,
+   "PS \u00b7 Solution play \u00b7 Downside": 6129.11202835394,
+   "PS \u00b7 Solution play \u00b7 Base": 6436.35892080972,
+   "PS \u00b7 Solution play \u00b7 Upside": 6706.0226056559
+  }
+ },
+ "arr": {
+  "Lean pilot \u2014 Downside": [
+   0,
+   1795.40624257169,
+   5695.73016836743,
+   10546.4948532564,
+   16044.1536896732,
+   22209.8981354365,
+   28367.6844595626,
+   35119.0362847356,
+   42435.0385728229,
+   49546.9448961098,
+   56359.659197126,
+   62906.1562730314
+  ],
+  "Lean pilot \u2014 Base": [
+   0,
+   8876.43319038757,
+   28556.8328798949,
+   53219.0446912122,
+   80661.5284149939,
+   114397.200378599,
+   155018.116366178,
+   210178.596103656,
+   281455.503508684,
+   357934.868621746,
+   434190.644323734,
+   509612.726732255
+  ],
+  "Lean pilot \u2014 Upside": [
+   0,
+   36090.5039438446,
+   130249.715900034,
+   260899.811525988,
+   428872.530221052,
+   639714.563948626,
+   924070.943676515,
+   1297120.41898565,
+   1708303.67891516,
+   2130736.84995223,
+   2565375.40807015,
+   3013219.53633262
+  ],
+  "Sales-led team \u2014 Base": [
+   0,
+   12457.995003187,
+   44041.686003686,
+   86916.3691817893,
+   135340.74430879,
+   194186.651800538,
+   263847.38791525,
+   354092.013499653,
+   465005.559417863,
+   582893.895766009,
+   701714.996157534,
+   820721.594513904
+  ],
+  "Solution play \u2014 Base": [
+   0,
+   4318.22312460352,
+   13858.0704928493,
+   25825.4884858417,
+   39177.0148504212,
+   55583.8202023846,
+   75310.9520859215,
+   101992.4586488,
+   136345.611335541,
+   173184.419965394,
+   209890.006668174,
+   246156.696716439
+  ]
+ },
+ "mc": {
+  "Industrial distribution \u2014 Lean pilot \u2014 run all 12 quarters (ungated)": {
+   "mean": -1833461,
+   "p10": -2031553,
+   "p50": -1877150,
+   "p90": -1578232,
+   "ppos": 0,
+   "x_mean": -3365399,
+   "x_ppos": 0,
+   "stop": null,
+   "scale": null
+  },
+  "Industrial distribution \u2014 Lean pilot \u2014 staged: Gate 1 with observation noise": {
+   "mean": -1486097,
+   "p10": -1979643,
+   "p50": -1688191,
+   "p90": -868884,
+   "ppos": 0,
+   "x_mean": -2791988,
+   "x_ppos": 0,
+   "stop": 0.337,
+   "scale": 0.0112
+  },
+  "Industrial distribution \u2014 Sales-led vertical team": {
+   "mean": -5315702,
+   "p10": -5740374,
+   "p50": -5403041,
+   "p90": -4775974,
+   "ppos": 0,
+   "x_mean": -9050273,
+   "x_ppos": 0,
+   "stop": null,
+   "scale": null
+  },
+  "Industrial distribution \u2014 Solution play (no vertical team)": {
+   "mean": -511201,
+   "p10": -604824,
+   "p50": -531596,
+   "p90": -388453,
+   "ppos": 0.0002,
+   "x_mean": -1046607,
+   "x_ppos": 0,
+   "stop": null,
+   "scale": null
+  },
+  "Professional services \u2014 Lean pilot \u2014 run all 12 quarters (ungated)": {
+   "mean": -2043608,
+   "p10": -2160317,
+   "p50": -2060360,
+   "p90": -1904440,
+   "ppos": 0,
+   "x_mean": -3570493,
+   "x_ppos": 0,
+   "stop": null,
+   "scale": null
+  },
+  "Professional services \u2014 Lean pilot \u2014 staged: Gate 1 with observation noise": {
+   "mean": -1663742,
+   "p10": -2146572,
+   "p50": -1968093,
+   "p90": -897861,
+   "ppos": 0,
+   "x_mean": -2969701,
+   "x_ppos": 0,
+   "stop": 0.3346,
+   "scale": 0.0184
+  },
+  "Professional services \u2014 Sales-led vertical team": {
+   "mean": -5726126,
+   "p10": -5939510,
+   "p50": -5764742,
+   "p90": -5456822,
+   "ppos": 0,
+   "x_mean": -9442359,
+   "x_ppos": 0,
+   "stop": null,
+   "scale": null
+  },
+  "Professional services \u2014 Solution play (no vertical team)": {
+   "mean": -614778,
+   "p10": -673722,
+   "p50": -622046,
+   "p90": -544597,
+   "ppos": 0,
+   "x_mean": -1145900,
+   "x_ppos": 0,
+   "stop": null,
+   "scale": null
+  }
+ },
+ "rob": [
+  [
+   "Base specification",
+   0.5,
+   0,
+   1,
+   -1829576,
+   -1560599,
+   0
+  ],
+  [
+   "Strong correlation",
+   0.8,
+   0.5,
+   1,
+   -1769212,
+   -1307517,
+   0.001
+  ],
+  [
+   "Near-comonotonic (\u2248 joint scenarios)",
+   0.9,
+   0.9,
+   1,
+   -1714980,
+   -1123165,
+   0.008
+  ],
+  [
+   "Ranges 1.5\u00d7 wider",
+   0.5,
+   0,
+   1.5,
+   -1768241,
+   -1303319,
+   0.0045
+  ],
+  [
+   "Ranges 1.5\u00d7 wider + strong correlation",
+   0.8,
+   0.5,
+   1.5,
+   -1621973,
+   -751821,
+   0.038
+  ],
+  [
+   "Ranges 2\u00d7 wider + strong correlation",
+   0.8,
+   0.5,
+   2,
+   -1407074,
+   30430,
+   0.101
+  ]
+ ],
+ "hist": [
+  [
+   -6500000,
+   0,
+   0,
+   0
+  ],
+  [
+   -6250000,
+   0,
+   0,
+   0
+  ],
+  [
+   -6000000,
+   0,
+   0.0908,
+   0
+  ],
+  [
+   -5750000,
+   0,
+   0.2934,
+   0
+  ],
+  [
+   -5500000,
+   0,
+   0.265,
+   0
+  ],
+  [
+   -5250000,
+   0,
+   0.166,
+   0
+  ],
+  [
+   -5000000,
+   0,
+   0.0914,
+   0
+  ],
+  [
+   -4750000,
+   0,
+   0.0462,
+   0
+  ],
+  [
+   -4500000,
+   0,
+   0.025,
+   0
+  ],
+  [
+   -4250000,
+   0,
+   0.0132,
+   0
+  ],
+  [
+   -4000000,
+   0,
+   0.006,
+   0
+  ],
+  [
+   -3750000,
+   0,
+   0.0016,
+   0
+  ],
+  [
+   -3500000,
+   0,
+   0.0012,
+   0
+  ],
+  [
+   -3250000,
+   0,
+   0.0002,
+   0
+  ],
+  [
+   -3000000,
+   0,
+   0,
+   0
+  ],
+  [
+   -2750000,
+   0.0014,
+   0,
+   0
+  ],
+  [
+   -2500000,
+   0.0022,
+   0,
+   0
+  ],
+  [
+   -2250000,
+   0.0716,
+   0,
+   0
+  ],
+  [
+   -2000000,
+   0.3646,
+   0,
+   0
+  ],
+  [
+   -1750000,
+   0.163,
+   0,
+   0
+  ],
+  [
+   -1500000,
+   0.047,
+   0,
+   0
+  ],
+  [
+   -1250000,
+   0.0106,
+   0,
+   0
+  ],
+  [
+   -1000000,
+   0.3382,
+   0,
+   0
+  ],
+  [
+   -750000,
+   0.0014,
+   0,
+   0.6474
+  ],
+  [
+   -500000,
+   0,
+   0,
+   0.335
+  ],
+  [
+   -250000,
+   0,
+   0,
+   0.0174
+  ],
+  [
+   0,
+   0,
+   0,
+   0.0002
+  ],
+  [
+   250000,
+   0,
+   0,
+   0
+  ],
+  [
+   500000,
+   0,
+   0,
+   0
+  ],
+  [
+   750000,
+   0,
+   0,
+   0
+  ],
+  [
+   1000000,
+   0,
+   0,
+   0
+  ],
+  [
+   1250000,
+   0,
+   0,
+   0
+  ],
+  [
+   1500000,
+   0,
+   0,
+   0
+  ],
+  [
+   1750000,
+   0,
+   0,
+   0
+  ],
+  [
+   2000000,
+   0,
+   0,
+   0
+  ]
+ ],
+ "tornado": [
+  [
+   "Automated outbound coverage",
+   63571.0183007661,
+   -1924661.8902804,
+   -1861090.87197964
+  ],
+  [
+   "Meeting rate",
+   105952.904557141,
+   -1935256.56194593,
+   -1829303.65738879
+  ],
+  [
+   "Outbound fatigue",
+   28259.5017274162,
+   -1909683.39422853,
+   -1881423.89250111
+  ],
+  [
+   "Inbound MQL rate",
+   52094.2446290946,
+   -1918926.23211758,
+   -1866831.98748848
+  ],
+  [
+   "Partner network (start, adds, cap, intros)",
+   55788.300232783,
+   -1899531.24393296,
+   -1843742.94370018
+  ],
+  [
+   "Funnel conversion (meeting / intro / MQL \u2192 opp)",
+   145458.983885927,
+   -1965606.87112112,
+   -1820147.88723519
+  ],
+  [
+   "Win rate",
+   204485.223180866,
+   -1974671.08628556,
+   -1770185.86310469
+  ],
+  [
+   "Enterprise propensity (mix)",
+   62891.9206850841,
+   -1924682.31182244,
+   -1861790.39113735
+  ],
+  [
+   "ICP tilt to Mid-Market / Enterprise (1\u00d7 \u2194 3\u00d7)",
+   29636.9905534582,
+   -1910460.76865713,
+   -1880823.77810368
+  ],
+  [
+   "Usage intensity (ACV)",
+   227149.342576513,
+   -1968365.3857943,
+   -1741216.04321778
+  ],
+  [
+   "Gross revenue retention",
+   61144.4956742609,
+   -1925003.32464385,
+   -1863858.82896959
+  ],
+  [
+   "Net revenue retention",
+   101456.872008502,
+   -1940348.20520182,
+   -1838891.33319331
+  ],
+  [
+   "Gross margin",
+   192344.87226589,
+   -2006021.03952256,
+   -1813676.16725667
+  ],
+  [
+   "Wave timing",
+   54008.4146322559,
+   -1925457.87818482,
+   -1871449.46355256
+  ],
+  [
+   "Partner fee and onboarding subsidy",
+   39231.1568083316,
+   -1912492.57541738,
+   -1873261.41860905
+  ],
+  [
+   "Self-serve share of SMB",
+   17702.9525316837,
+   -1903498.76853222,
+   -1885795.81600054
+  ],
+  [
+   "Incrementality haircut",
+   147395.367353136,
+   -1966574.68068978,
+   -1819179.31333664
+  ],
+  [
+   "Discount rate (15% \u2194 8%)",
+   82707.9525908129,
+   -1855919.46721786,
+   -1938627.41980868
+  ]
+ ],
+ "score": {
+  "Market Attractiveness": [
+   2.19998573903099,
+   3.66054905691655,
+   5
+  ],
+  "Customer Need": [
+   5,
+   1.49899799599198,
+   2.12441246128621
+  ],
+  "Product-Market Fit": [
+   4,
+   3,
+   5
+  ],
+  "Revenue Potential": [
+   5,
+   4.1576411802272,
+   4.1641102556321
+  ],
+  "Competitive Position": [
+   4,
+   3.33333333333333,
+   2.33333333333333
+  ],
+  "Ease of Execution": [
+   2,
+   1.5,
+   4.5
+  ],
+  "total": [
+   3.7899971478062,
+   2.90555558761579,
+   3.84949903060206
+  ]
+ },
+ "robust6": {
+  "Weighted total \u2014 v2 base (brief weights)": [
+   3.7899971478062,
+   2.90555558761579,
+   3.84949903060206
+  ],
+  "Weighted total \u2014 display precision (1 decimal)": [
+   3.8,
+   2.9,
+   3.8
+  ],
+  "Score range \u2014 P10, centered random weights": [
+   3.53325686861642,
+   2.66989731801756,
+   3.56734794731122
+  ],
+  "Score range \u2014 P90, centered random weights": [
+   4.05080090670454,
+   3.14433647501589,
+   4.12372074840965
+  ],
+  "Weighted total \u2014 v1 (as published)": [
+   3.96778005760975,
+   2.7044652725028,
+   3.41185001533273
+  ],
+  "Named weight sets won (of 6)": [
+   1,
+   0,
+   5
+  ],
+  "Random weights won \u2014 flat Dirichlet": [
+   0.429,
+   0,
+   0.571
+  ],
+  "Random weights won \u2014 centered Dirichlet": [
+   0.446,
+   0,
+   0.554
+  ],
+  "Stress tests won (of 14)": [
+   5,
+   0,
+   9
+  ],
+  "null": [
+   null,
+   null,
+   null
+  ]
+ },
+ "drill": {
+  "Firms 20+ (de-duplicated, 20\u201349 \u00d7 0.973)": [
+   2539.984,
+   1793.649,
+   5911.206
+  ],
+  "Reachable accounts = firms \u00d7 CRM in use \u00d7 (1 \u2212 already Clay)": [
+   1379.7193088,
+   974.3101368,
+   3210.9670992
+  ],
+  "Sales occupations share of employment": [
+   0.214299962763977,
+   0.214299962763977,
+   0.229865468536163
+  ],
+  "Usage-based ACV per won account (Base)": [
+   11155.5259267276,
+   8883.93246091386,
+   8130.75460946234
+  ],
+  "Scores (ratio-to-max)": [
+   null,
+   null,
+   null
+  ],
+  "Market (reachable accounts)": [
+   2.71875857481536,
+   2.21372796008124,
+   5
+  ],
+  "Need (sales share)": [
+   4.72913711883196,
+   4.72913711883196,
+   5
+  ],
+  "Revenue (ACV per account)": [
+   5,
+   4.18548225131324,
+   3.91541776259309
+  ],
+  "Weighted score (market, need, revenue)": [
+   4.07196207041721,
+   3.66617336996296,
+   4.70420484434357
+  ],
+  "Same, with concave market scoring (\u221a)": [
+   4.40042391994971,
+   4.02604918384195,
+   4.70420484434357
+  ]
+ },
+ "estab": {
+  "Enterprise": 376,
+  "Total firms 20+": 11493.5442871735,
+  "Establishments, all sizes (FY), NAICS 4235\u20134238": 102922,
+  "Firms, all sizes (FY), \u03a3 sub-industries (not additive)": 61863,
+  "All-size de-dup factor, NAICS 423 (sector FY firms \u00f7 \u03a3 sub-industry FY firms)": 0.98710352039038,
+  "Unique firms, all sizes [C]": 61065.1850819101,
+  "Establishments per unique firm, all sizes": 1.68544482198728,
+  "Establishments of firms with 20+ employees, 4235\u20134238 [C]": 50790,
+  "Unique firms with 20+ employees (Block 5)": 11493.5442871735,
+  "Establishments per unique firm, 20+ employees": 4.41900241831237,
+  "MSBO establishments (TYPOP 21 + 22)": 4818,
+  "All establishments, all types of operation": 108302
+ },
+ "sizing": {
+  "Unique firms, 20+ employees": [
+   11493.5442871735,
+   23784.5883333251,
+   33035.0140471998
+  ],
+  "   of which SMB (20\u201399)": [
+   9106.20215496278,
+   18442.232067379,
+   26020.5418841412
+  ],
+  "   of which Mid-Market (100\u2013499)": [
+   2011.34213221072,
+   4448.98839994123,
+   5775.40452567021
+  ],
+  "   of which Enterprise (500+)": [
+   376,
+   893.367866004963,
+   1239.06763738845
+  ],
+  "TAM (Base)": [
+   91523225.6960187,
+   162098942.083778,
+   225074992.197992
+  ],
+  "SAM (Base)": [
+   41002405.1118164,
+   43766714.3626199,
+   86653871.9962271
+  ],
+  "SOM \u2014 year-3 ARR potential (Base)": [
+   1214133.42932231,
+   1233894.53963463,
+   2429509.11043663
+  ],
+  "SOM range \u2014 compounded Low": [
+   239994.104847707,
+   205649.089939104,
+   462763.640083168
+  ],
+  "SOM range \u2014 compounded High": [
+   4328619.54928884,
+   4112981.79878209,
+   7509391.79589504
+  ],
+  "SOM customers, year 3 (Base)": [
+   98.332996738262,
+   125.200405341689,
+   245.597014076079
+  ],
+  "SAM as % of TAM": [
+   0.448,
+   0.27,
+   0.385
+  ],
+  "Structural profile": [
+   null,
+   null,
+   null
+  ],
+  "Sales occupations share of employment (all industries \u2248 8.6%)": [
+   0.219591302897571,
+   0.0273891372544733,
+   0.0617163123613638
+  ],
+  "Computer & math occupations share (all industries \u2248 3.4%)": [
+   0.0232701034909544,
+   0.0153710363221004,
+   0.241907327354783
+  ],
+  "Implied sales staff per 20+ firm": [
+   27.7000872013379,
+   3.64949927543031,
+   9.3223335564577
+  ],
+  "Sanity checks": [
+   null,
+   null,
+   null
+  ],
+  "Clay customers reported (Sep 2026, S03) \u2014 for scale": [
+   17000,
+   null,
+   null
+  ],
+  "Base SOM customers as % of Clay's total customer count": [
+   0.00578429392578012,
+   0.00736472972598171,
+   0.0144468831809458
+  ],
+  "Clay ARR, third-party estimate (Sep 2026, S23; was ~$150M in May 2026, S04) \u2014 for scale": [
+   200000000,
+   null,
+   null
+  ],
+  "Base SOM ARR as % of Clay's estimated ARR": [
+   0.00607066714661153,
+   0.00616947269817313,
+   0.0121475455521832
+  ]
+ }
+}
